@@ -1,7 +1,7 @@
 # CryptoClub
 Journal club of blockchain whitepapers
 
-![transactions](bitcoin_blockchain_infographic1.jpg)
+![transactions](IMGs/bitcoin_blockchain_infographic1.jpg)
 
 ## Papers
 

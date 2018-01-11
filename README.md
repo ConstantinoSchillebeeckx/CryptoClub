@@ -10,6 +10,8 @@ Journal club of blockchain whitepapers
 
 - [Satoshi Nakamoto whitepaper](PDFs/Bitcoin_A_Peer_to_Peer_Electronic_Cash_System.pdf)
 - [IMB Blockchain for Dummies](PDFs/blockchain_for_dummies.PDF)
+- [“MedRec” prototype for electronic health records and medical research data](PDFs/medrec.pdf)
+- [Storj - A Peer-to-Peer Cloud Storage Network](PDFs/storj.pdf)
 
 
 ## Blogs
